@@ -53,3 +53,4 @@ manage.py
 drf_example
 
 .vscode
+db.sqllite3
